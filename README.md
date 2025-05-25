@@ -4,5 +4,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/03/62/83/036283325a240ce6cfc478e30b019825.gif" alt="Python" /></a>
+<a><img src="https://i.pinimg.com/originals/5d/14/78/5d147827059e4ce928b7c0c51d9ab44f.gif" width="300" /></a>
 </p>
+
