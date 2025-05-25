@@ -1,4 +1,7 @@
-Hi 👋 My name is dwa
+<p align="center">
+  <b>ﾚﾉ爪の匚み</b><br>
+  I'm a passionate developer from Earth 🌍
+</p>
 ====================
 
 ### Skills
