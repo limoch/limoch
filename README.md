@@ -12,13 +12,15 @@
 <a><img src="https://i.pinimg.com/originals/02/55/10/025510e323c10fd4509193355ddd9f30.gif" width="700" /></a>
 </p>
 
----
-
 # 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢
 <p align="center"><br>
-𝙄 𝙖𝙢 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 𝙥𝙧𝙞𝙢𝙖𝙧𝙞𝙡𝙮 𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙙𝙚𝙚𝙥𝙚𝙣𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙤𝙛 𝙋𝙮𝙩𝙝𝙤𝙣.<br>  
-𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙞𝙣 𝙗𝙤𝙩𝙝 <b>𝙥𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙩𝙚𝙨𝙩𝙞𝙣𝙜</b> 𝙖𝙣𝙙 <b>𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</b>.<br>
-𝙄𝙣 𝙖𝙙𝙙𝙞𝙩𝙞𝙤𝙣 𝙩𝙤 𝙩𝙝𝙖𝙩, 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙖𝙢𝙖𝙩𝙚𝙪𝙧 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜 <b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙗𝙤𝙩𝙨</b>.<br>
+I'm a self-taught Python developer and passionate hobbyist.  <br>
+Most of my work revolves around building Telegram bots and experimenting with pentesting<br>
+</p>
+<p align="left">
+🛠 <b>Tech Stack</b>: Python, asyncio, aiogram, basic C#, Unity, HTML/CSS  <br>
+🎯 <b>Interests</b>: Penetration testing, AI, backend development, indie games, game mechanics<br>
+📚 <b>Currently learning</b>: Cybersecurity fundamentals, AI for games, and improving my design & music production skills...<br>
 </p>
 
 ---
