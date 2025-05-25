@@ -1,22 +1,15 @@
-<p align="center">
-  <br><b>𝔥𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰</b><br><br>
-</p>
-<p align="center">
-█░░ █ █▀▄▀█ █▀█ █▀▀ █░█<br>
-█▄▄ █ █░▀░█ █▄█ █▄▄ █▀█
+
+ # █░░ █ █▀▄▀█ █▀█ █▀▀ █░█
+ # █▄▄ █ █░▀░█ █▄█ █▄▄ █▀█
+
+𝔥𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰
 
 
-</p>
-<p align="center">
-<a><img src="https://i.pinimg.com/originals/ca/d4/1c/cad41c1f3ca45f2ccd0f8a2b4feb2596.gif" width="800" /></a>
-</p>
+## License
 
----
+[MIT](https://choosealicense.com/licenses/mit/)
 
-<p align="center">𝔞𝔟𝔬𝔲𝔱 𝔪𝔢<br>
-𝙄 𝙖𝙢 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 𝙥𝙧𝙞𝙢𝙖𝙧𝙞𝙡𝙮 𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙙𝙚𝙚𝙥𝙚𝙣𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙤𝙛 𝙋𝙮𝙩𝙝𝙤𝙣.  
-𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙞𝙣 𝙗𝙤𝙩𝙝 <b>𝙥𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙩𝙚𝙨𝙩𝙞𝙣𝙜</b> 𝙖𝙣𝙙 <b>𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</b>.<br><br>
-𝙄𝙣 𝙖𝙙𝙙𝙞𝙩𝙞𝙤𝙣 𝙩𝙤 𝙩𝙝𝙖𝙩, 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙖𝙢𝙖𝙩𝙚𝙪𝙧 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜 <b>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙗𝙤𝙩𝙨</b>.<br>
-</p>
 
----
+
+![Logo](https://i.pinimg.com/originals/34/91/e2/3491e2089b8e2fbd0ca922eee6157eee.gif)
+
