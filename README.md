@@ -7,13 +7,8 @@
 
 
 </p>
-
 <p align="center">
-<a><img src="https://i.pinimg.com/originals/34/91/e2/3491e2089b8e2fbd0ca922eee6157eee.gif" width="700" /></a>
-</p>
-
-<p align="center">
-<a><img src="https://i.pinimg.com/originals/97/b9/42/97b94259e30d266841731059651e8af0.gif" width="500" /></a>
+<a><img src="https://i.pinimg.com/originals/97/b9/42/97b94259e30d266841731059651e8af0.gif" width="800" /></a>
 </p>
 
 ---
