@@ -1,6 +1,7 @@
 <p align="center">
   <br><b>𝔥𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰</b><br><br>
-
+</p>
+<p align="center">
 █░░ █ █▀▄▀█ █▀█ █▀▀ █░█<br>
 █▄▄ █ █░▀░█ █▄█ █▄▄ █▀█
 
@@ -11,14 +12,8 @@
 <a><img src="https://i.pinimg.com/originals/5d/14/78/5d147827059e4ce928b7c0c51d9ab44f.gif" width="500" /></a>
 </p>
 
-<p align="center">𝔞𝔟𝔬𝔲𝔱 𝔪𝔢<br>
-𝙄 𝙖𝙢 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 𝙥𝙧𝙞𝙢𝙖𝙧𝙞𝙡𝙮 𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙙𝙚𝙚𝙥𝙚𝙣𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙤𝙛 𝙋𝙮𝙩𝙝𝙤𝙣.<br>
-𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙞𝙣 𝙗𝙤𝙩𝙝 <b>𝙥𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙩𝙚𝙨𝙩𝙞𝙣𝙜</b> 𝙖𝙣𝙙 <b>𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</b>.<br></p>
-
 ---
 
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; max-width: 600px; margin: 10px auto; font-family: monospace; background-color: #f9f9f9;">
 <p align="center">𝔞𝔟𝔬𝔲𝔱 𝔪𝔢<br>
 𝙄 𝙖𝙢 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 𝙥𝙧𝙞𝙢𝙖𝙧𝙞𝙡𝙮 𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙙𝙚𝙚𝙥𝙚𝙣𝙞𝙣𝙜 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙤𝙛 𝙋𝙮𝙩𝙝𝙤𝙣.<br>
 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙨𝙩𝙧𝙤𝙣𝙜 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙞𝙣 𝙗𝙤𝙩𝙝 <b>𝙥𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙩𝙚𝙨𝙩𝙞𝙣𝙜</b> 𝙖𝙣𝙙 <b>𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</b>.</p>
-</div>
