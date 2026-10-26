@@ -55,7 +55,7 @@
 <h2 align="center">𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊𝖘</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=c&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=limoch&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoch&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
 </p>
 
