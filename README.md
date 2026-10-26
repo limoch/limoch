@@ -1,17 +1,27 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:3a0008,100:8b0000&text=%E2%9C%A0%20LIMOCH%20%E2%9C%A0&fontColor=e8e0d0&fontSize=64&fontAlignY=40&desc=Code%20%C2%B7%20Design%20%C2%B7%20Sound&descColor=b30000&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,60:2b2b2b,100:7a7a7a&text=%E2%9C%A0%20LIMOCH%20%E2%9C%A0&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Code%20%C2%B7%20Design%20%C2%B7%20Sound&descColor=cccccc&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
 </p>
 
+<div align="center">
+<pre>
+██╗░░░░░██╗███╗░░░███╗░█████╗░░█████╗░██╗░░██╗
+██║░░░░░██║████╗░████║██╔══██╗██╔══██╗██║░░██║
+██║░░░░░██║██╔████╔██║██║░░██║██║░░╚═╝███████║
+██║░░░░░██║██║╚██╔╝██║██║░░██║██║░░██╗██╔══██║
+███████╗██║██║░╚═╝░██║╚█████╔╝╚█████╔╝██║░░██║
+╚══════╝╚═╝╚═╝░░░░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝
+</pre>
+</div>
+
+<!-- ASCII-анимация: терминал -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=26&duration=3500&pause=1000&color=B30000&center=true&vCenter=true&width=700&lines=%E2%9A%B0+Python+developer+%E2%9A%B0;%E2%9C%A0+Designer+%26+Sound+engineer+%E2%9C%A0;%E2%98%A9+Telegram+bots+%C2%B7+Pentesting+%C2%B7+Indie+games+%E2%98%A9" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=%3E+python+developer;%3E+designer;%3E+sound+engineer;%3E+bots+%C2%B7+pentesting+%C2%B7+indie+games" alt="terminal"/>
 </p>
 
+<!-- ASCII-анимация: полоса загрузки -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0b0b0f?style=for-the-badge&logo=python&logoColor=b30000&labelColor=0b0b0f"/>
-  <img src="https://img.shields.io/badge/aiogram-0b0b0f?style=for-the-badge&logo=telegram&logoColor=b30000"/>
-  <img src="https://img.shields.io/badge/Unity-0b0b0f?style=for-the-badge&logo=unity&logoColor=b30000"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0b0b0f?style=for-the-badge&logo=hackthebox&logoColor=b30000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1200&pause=600&color=BBBBBB&center=true&vCenter=true&width=300&height=30&lines=%5B%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D++0%25;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+30%25;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+60%25;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+90%25;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25" alt="loading"/>
 </p>
 
 <p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
@@ -20,13 +30,9 @@
 <h2 align="center">𝕬𝖇𝖔𝖚𝖙 𝕸𝖊</h2>
 
 <p align="center">
-  <i>𝔗𝔥𝔢 𝔠𝔬𝔡𝔢 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔭𝔢𝔩𝔩, 𝔱𝔥𝔢 𝔡𝔢𝔰𝔦𝔤𝔫 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔭𝔦𝔯𝔦𝔱, 𝔱𝔥𝔢 𝔰𝔬𝔲𝔫𝔡 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔬𝔲𝔩.</i>
-</p>
-
-<p align="center">
   ☩ Self-taught Python developer, designer and sound engineer<br>
-  ☩ I build Telegram bots, experiment with pentesting and craft game mechanics<br>
-  ☩ Always drawn to new projects and dark aesthetics
+  ☩ I build Telegram bots, experiment with pentesting and game mechanics<br>
+  ☩ Open to all kinds of projects
 </p>
 
 <p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
@@ -35,13 +41,17 @@
 <h2 align="center">𝕬𝖗𝖘𝖊𝖓𝖆𝖑</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,unity,html,css,git,linux,bash,figma,photoshop&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/asyncio-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">
-  🗡 <b>Stack</b>: Python · asyncio · aiogram · C# · Unity · HTML/CSS<br>
-  🩸 <b>Interests</b>: Pentesting · AI · Backend · Indie games · Game mechanics<br>
-  📜 <b>Studying</b>: Cybersecurity · AI for games · Design · Music production
+  🗡 <b>Interests</b>: Pentesting · AI · Backend · Indie games · Game mechanics<br>
+  📜 <b>Learning</b>: Cybersecurity · AI for games · Design · Music production
 </p>
 
 <p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
@@ -50,23 +60,21 @@
 <h2 align="center">𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊𝖘</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0b0f&title_color=b30000&icon_color=8b0000&text_color=e8e0d0&ring_color=b30000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0b0f&title_color=b30000&text_color=e8e0d0"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0b0b0f&ring=b30000&fire=b30000&currStreakLabel=e8e0d0&sideLabels=e8e0d0&currStreakNum=e8e0d0&sideNums=e8e0d0&dates=8b0000&stroke=3a0008&border=3a0008"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=333333&border=333333"/>
 </p>
 
 <p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
-<h2 align="center">𝕮𝖔𝖓𝖏𝖚𝖗𝖊 𝕸𝖊</h2>
+<h2 align="center">𝕸𝖚𝖘𝖎𝖈</h2>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TG"><img src="https://img.shields.io/badge/Telegram-0b0b0f?style=for-the-badge&logo=telegram&logoColor=b30000"/></a>
-  <a href="https://soundcloud.com/YOUR_SC"><img src="https://img.shields.io/badge/SoundCloud-0b0b0f?style=for-the-badge&logo=soundcloud&logoColor=b30000"/></a>
-  <a href="https://behance.net/YOUR_BE"><img src="https://img.shields.io/badge/Behance-0b0b0f?style=for-the-badge&logo=behance&logoColor=b30000"/></a>
+  <a href="https://soundcloud.com/limoch"><img src="https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b0000,50:3a0008,100:000000&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7a7a7a,40:2b2b2b,100:000000&section=footer" width="100%"/>
