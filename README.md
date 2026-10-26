@@ -1,31 +1,72 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <br><b>𝔥𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰</b><br>
-</p>
-<p align="center">
-  ██╗░░░░░██╗███╗░░░███╗░█████╗░░█████╗░██╗░░██╗<br>
-  ██║░░░░░██║████╗░████║██╔══██╗██╔══██╗██║░░██║<br>
-  ██║░░░░░██║██╔████╔██║██║░░██║██║░░╚═╝███████║<br>
-  ██║░░░░░██║██║╚██╔╝██║██║░░██║██║░░██╗██╔══██║<br>
-  ███████╗██║██║░╚═╝░██║╚█████╔╝╚█████╔╝██║░░██║<br>
-  ╚══════╝╚═╝╚═╝░░░░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝<br>                                   
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:3a0008,100:8b0000&text=%E2%9C%A0%20LIMOCH%20%E2%9C%A0&fontColor=e8e0d0&fontSize=64&fontAlignY=40&desc=Code%20%C2%B7%20Design%20%C2%B7%20Sound&descColor=b30000&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-<a><img src="https://i.pinimg.com/originals/02/55/10/025510e323c10fd4509193355ddd9f30.gif" width="700" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=26&duration=3500&pause=1000&color=B30000&center=true&vCenter=true&width=700&lines=%E2%9A%B0+Python+developer+%E2%9A%B0;%E2%9C%A0+Designer+%26+Sound+engineer+%E2%9C%A0;%E2%98%A9+Telegram+bots+%C2%B7+Pentesting+%C2%B7+Indie+games+%E2%98%A9" alt="typing"/>
 </p>
 
-# 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊
-<p align="center"><br>
-ℑ'𝔪 𝔞 𝔰𝔢𝔩𝔣-𝔱𝔞𝔲𝔤𝔥𝔱 𝔓𝔶𝔱𝔥𝔬𝔫 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔞𝔫𝔡 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 𝔥𝔬𝔟𝔟𝔶𝔦𝔰𝔱.  <br>
-𝔐𝔬𝔰𝔱 𝔬𝔣 𝔪𝔶 𝔴𝔬𝔯𝔨 𝔯𝔢𝔳𝔬𝔩𝔳𝔢𝔰 𝔞𝔯𝔬𝔲𝔫𝔡 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔪 𝔟𝔬𝔱𝔰 𝔞𝔫𝔡 𝔢𝔵𝔭𝔢𝔯𝔦𝔪𝔢𝔫𝔱𝔦𝔫𝔤 𝔴𝔦𝔱𝔥 𝔭𝔢𝔫𝔱𝔢𝔰𝔱𝔦𝔫𝔤<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0b0b0f?style=for-the-badge&logo=python&logoColor=b30000&labelColor=0b0b0f"/>
+  <img src="https://img.shields.io/badge/aiogram-0b0b0f?style=for-the-badge&logo=telegram&logoColor=b30000"/>
+  <img src="https://img.shields.io/badge/Unity-0b0b0f?style=for-the-badge&logo=unity&logoColor=b30000"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0b0b0f?style=for-the-badge&logo=hackthebox&logoColor=b30000"/>
 </p>
 
-# 𝖘𝖐𝖎𝖑𝖑𝖘
-<p align="left">
-🛠 <b>Tech Stack</b>: Python, asyncio, aiogram, basic C#, Unity, HTML/CSS  <br>
-🎯 <b>Interests</b>: Penetration testing, AI, backend development, indie games, game mechanics<br>
-📚 <b>Currently learning</b>: Cybersecurity fundamentals, AI for games, and improving my design & music production skills...<br>
+<p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2 align="center">𝕬𝖇𝖔𝖚𝖙 𝕸𝖊</h2>
+
+<p align="center">
+  <i>𝔗𝔥𝔢 𝔠𝔬𝔡𝔢 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔭𝔢𝔩𝔩, 𝔱𝔥𝔢 𝔡𝔢𝔰𝔦𝔤𝔫 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔭𝔦𝔯𝔦𝔱, 𝔱𝔥𝔢 𝔰𝔬𝔲𝔫𝔡 𝔦𝔰 𝔱𝔥𝔢 𝔰𝔬𝔲𝔩.</i>
 </p>
 
----
+<p align="center">
+  ☩ Self-taught Python developer, designer and sound engineer<br>
+  ☩ I build Telegram bots, experiment with pentesting and craft game mechanics<br>
+  ☩ Always drawn to new projects and dark aesthetics
+</p>
 
+<p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
+
+<!-- ═══════════════ ARSENAL ═══════════════ -->
+<h2 align="center">𝕬𝖗𝖘𝖊𝖓𝖆𝖑</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,html,css,git,linux,bash,figma,photoshop&theme=dark" />
+</p>
+
+<p align="center">
+  🗡 <b>Stack</b>: Python · asyncio · aiogram · C# · Unity · HTML/CSS<br>
+  🩸 <b>Interests</b>: Pentesting · AI · Backend · Indie games · Game mechanics<br>
+  📜 <b>Studying</b>: Cybersecurity · AI for games · Design · Music production
+</p>
+
+<p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+<h2 align="center">𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊𝖘</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0b0f&title_color=b30000&icon_color=8b0000&text_color=e8e0d0&ring_color=b30000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0b0f&title_color=b30000&text_color=e8e0d0"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=0b0b0f&ring=b30000&fire=b30000&currStreakLabel=e8e0d0&sideLabels=e8e0d0&currStreakNum=e8e0d0&sideNums=e8e0d0&dates=8b0000&stroke=3a0008&border=3a0008"/>
+</p>
+
+<p align="center">⚜ ━━━━━━━━━━━━ ✠ ━━━━━━━━━━━━ ⚜</p>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<h2 align="center">𝕮𝖔𝖓𝖏𝖚𝖗𝖊 𝕸𝖊</h2>
+
+<p align="center">
+  <a href="https://t.me/YOUR_TG"><img src="https://img.shields.io/badge/Telegram-0b0b0f?style=for-the-badge&logo=telegram&logoColor=b30000"/></a>
+  <a href="https://soundcloud.com/YOUR_SC"><img src="https://img.shields.io/badge/SoundCloud-0b0b0f?style=for-the-badge&logo=soundcloud&logoColor=b30000"/></a>
+  <a href="https://behance.net/YOUR_BE"><img src="https://img.shields.io/badge/Behance-0b0b0f?style=for-the-badge&logo=behance&logoColor=b30000"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b0000,50:3a0008,100:000000&section=footer" width="100%"/>
