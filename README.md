@@ -1,8 +1,3 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,60:2b2b2b,100:7a7a7a&text=%E2%9C%A0%20LIMOCH%20%E2%9C%A0&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Code%20%C2%B7%20Design%20%C2%B7%20Sound&descColor=cccccc&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
-</p>
-
 <div align="center">
 <pre>
 ██╗░░░░░██╗███╗░░░███╗░█████╗░░█████╗░██╗░░██╗
@@ -60,8 +55,8 @@
 <h2 align="center">𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊𝖘</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=c&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoch&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc"/>
 </p>
 
 <p align="center">
